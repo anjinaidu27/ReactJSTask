@@ -1,0 +1,32 @@
+.parent-card
+{
+	display: flex;
+	margin :5px;
+	padding: 10px;
+}
+.card1
+{
+	border:1px solid gray;
+	border-color: black;
+	margin: 15px;
+	padding: 1px;
+	height: 950px;
+	width: 400px;
+}
+.card2
+{
+	border:1px solid gray;
+	border-color: black;
+	margin: 15px ;
+	padding: 1px;
+	height: 950px;
+	width: 1000px;
+}
+img
+{
+	height:200px;
+	width: 200px;
+	border-radius: 50%;
+	border-color: green;
+	border:1px solid green;
+}
